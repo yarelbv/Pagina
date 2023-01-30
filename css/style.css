@@ -791,7 +791,8 @@ footer .footer-manu ul li a:hover {
 }
 .menuCSS3 a {
   display: block;
-  padding: 1em;
+  padding: 1.5em;
+  text-align: center;
   background-color: #5a5db8;
   text-decoration: none;
   color: #ffffff;
